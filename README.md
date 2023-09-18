@@ -33,13 +33,13 @@ A variable is a container that stores values. Variables are fundamental building
 ### 1. What is an HTML attribute?
 An HTML attribute provides additional information about an HTML element and helps define its properties or behavior. `<tagname attribute_name="attribute_value">Content</tagname>`
 - All HTML elements can have attributes
-- The href attribute of <a> specifies the URL of the page the link goes to
-- The src attribute of <img> specifies the path to the image to be displayed
-- The width and height attributes of <img> provide size information for images
-- The alt attribute of <img> provides an alternate text for an image
-- The style attribute is used to add styles to an element, such as color, font, size, and more
-- The lang attribute of the <html> tag declares the language of the Web page
-- The title attribute defines some extra information about an element
+- The `href` attribute of `<a>` specifies the URL of the page the link goes to
+- The `src` attribute of `<img>` specifies the path to the image to be displayed
+- The `width` and `height` attributes of `<img>` provide size information for images
+- The `alt` attribute of `<img>` provides an alternate text for an image
+- The `style` attribute is used to add styles to an element, such as color, font, size, and more
+- The `lang` attribute of the <html> tag declares the language of the Web page
+- The `title` attribute defines some extra information about an element
 
 
 ### 2. Describe the Anatomy of an HTMl element.
