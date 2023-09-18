@@ -1,5 +1,5 @@
 # class-01.md
-# class-01.md
+
 
 ## 1.Compose a short poem describing how HTTP sends data between computers.
 The browser sends an HTTP request message to the server, asking it to send a copy of the website to the client (you go to the shop and order your goods). This message, and all other data sent between the client and the server, is sent across your internet connection using TCP/IP.
@@ -32,6 +32,15 @@ A variable is a container that stores values. Variables are fundamental building
 
 ### 1. What is an HTML attribute?
 An HTML attribute provides additional information about an HTML element and helps define its properties or behavior. `<tagname attribute_name="attribute_value">Content</tagname>`
+-All HTML elements can have attributes
+-The href attribute of <a> specifies the URL of the page the link goes to
+-The src attribute of <img> specifies the path to the image to be displayed
+-The width and height attributes of <img> provide size information for images
+-The alt attribute of <img> provides an alternate text for an image
+-The style attribute is used to add styles to an element, such as color, font, size, and more
+-The lang attribute of the <html> tag declares the language of the Web page
+-The title attribute defines some extra information about an element
+
 
 ### 2. Describe the Anatomy of an HTMl element.
 The anatomy of an HTML element encompasses its opening tag, closing tag, element name, content, and any attributes, all of which work together to define the element's structure, content, and behavior in a web document. `<elementName attribute1="value1" attribute2="value2">Content</elementName>`
