@@ -61,6 +61,22 @@ Search engines crawl your web pages to recognize keywords and other information.
 ### 6. How is the <meta> HTML tag used when specifying metadata?
 HTML `<meta>` tag is used to represent the metadata about the HTML document. It specifies page description, keywords, copyright, language, author of the documents, etc. The metadata does not display on the webpage, but it is used by search engines, browsers, and other web services which scan the site or webpage to know about the webpage.
 
+- `<meta charset="utf-8">`  
+It defines the character encoding. The value of charset is "utf-8" which means it will support to display any language.
+
+- `<meta name="keywords" content="HTML, CSS, JavaScript, Tutorials">`  
+It specifies the list of keyword which is used by search engines.
+
+- `<meta name="description" content="Free Online tutorials">`  
+It defines the website description which is useful to provide relevant search performed by search engines.
+
+- `<meta name="author" content="thisauthor">`  
+It specifies the author of the page. It is useful to extract author information by Content management system automatically.
+
+- `<meta name="refresh" content="50">` 
+It specifies to provide instruction to the browser to automatically refresh the content after every 50sec (or any given time).
+
+
 
 
 
